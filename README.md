@@ -7,12 +7,12 @@ Given the city's roads were originally designed for horse and cart, this area an
 
 
 ### `TFL.JOURNEYS`
-| `MONTH`| Month in number format, e.g., `1` equals January  
-| `YEAR` | Year  
-| `DAYS` | Number of days in the given month  
-| `REPORT_DATE` | Date that the data was reported  
-| `JOURNEY_TYPE` | Method of transport used  
-| `JOURNEYS_MILLIONS` | Millions of journeys, measured in decimals  
+ - `MONTH`| Month in number format, e.g., `1` equals January
+ - `YEAR` | Year
+ - `DAYS` | Number of days in the given month
+ - `REPORT_DATE` | Date that the data was reported
+ - `JOURNEY_TYPE` | Method of transport used
+ - `JOURNEYS_MILLIONS` | Millions of journeys, measured in decimals  
 
 
 
